@@ -1,0 +1,29 @@
+
+.portal-section-bg{
+    display: grid;
+    background: linear-gradient(to right, rgba(255,255,255,0),rgba(255,255,255,1), rgba(255,255,255,1));
+    grid-template-columns: 60vw 40vw;
+    height:100vh;
+    width:100vw;
+}
+.portal-section-bg-reverse{
+    display: grid;
+    background: linear-gradient(to right, rgba(255,255,255,1),rgba(255,255,255,1), rgba(255,255,255,0));
+    grid-template-columns: 40vw 60vw;
+    height:100vh;
+    width:100vw;
+}
+
+.portal-section-bg-block{
+    align-content:center;
+    background: rgba(21,27,31,1);
+    color:rgba(256,256,256,1);
+    display: grid;
+    grid-template-columns: 33.3vw 33.3vw 33.3vw;
+    height:100vh;
+    width:100vw;
+}
+
+.portal-item{
+    padding:5em;
+}

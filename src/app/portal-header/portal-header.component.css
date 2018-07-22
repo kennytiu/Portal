@@ -1,0 +1,6 @@
+.portal-header-bg{
+    background: linear-gradient(to right, rgb(148, 0, 211,1),rgb(255, 192, 203));
+    color:rgba(255,255,255,1);
+    font-weight: bold;
+    padding: 1em;
+}

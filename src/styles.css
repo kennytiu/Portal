@@ -1,0 +1,16 @@
+*{
+  font-family: arial;
+}
+
+body{
+  margin:0;
+  padding:0;
+}  
+
+.bg { 
+  background: url(/assets/Portal-bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
